@@ -8,6 +8,6 @@ A collection of python scripts used to translate and manipulate datasets across 
 |-----:|-----------|
 |     story-writer| Is a mix of OpenHermes, NeuralStory and No-Robots Dataset selection of conversations for story telling |
 |     samantha| smantha llm processed and translated |
-|     3| SQL       |
+|     psychology-dataset| psychology dataset conversations processed and translated |
 
 </details>
