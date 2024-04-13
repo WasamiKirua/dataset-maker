@@ -10,5 +10,6 @@ A collection of python scripts used to translate and manipulate datasets across 
 |     samantha| smantha llm processed and translated |
 |     psychology-dataset| psychology dataset conversations processed and translated |
 |     dpo| DPO (Truthy and Orca) dataset processed and translated |
+|     haiku| Haiku prompt dataset and haiku generation |
 
 </details>
