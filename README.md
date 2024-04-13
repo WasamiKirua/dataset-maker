@@ -4,7 +4,7 @@ A collection of python scripts used to translate and manipulate datasets across 
 <details>
 <summary>Content</summary>
 
-| Dataset | Content |
+| Dataset | Description |
 |-----:|-----------|
 |     story-writer| Is a mix of OpenHermes, NeuralStory and No-Robots Dataset selection of conversations for story telling |
 |     2| Python    |
